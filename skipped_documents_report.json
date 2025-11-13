@@ -1,43 +1,931 @@
 {
-  "generated_at": "2025-11-08T19:20:30.750910Z",
+  "generated_at": "2025-11-12T21:43:12.973167Z",
   "total_directories_processed": 279,
-  "skipped_count": 22,
+  "skipped_count": 339,
   "skipped_documents": [
     {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/11/PLT STX v2 CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/1/M4 & M249 Qual CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 1,
+      "source_directory_name": "1",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/10/SQD STX Training 03-04DEC24 CAO 07NOV24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 2,
+      "source_directory_name": "10",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/10/DRAW (SQD STX).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 2,
+      "source_directory_name": "10",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/11/PLT STX v2 CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 3,
       "source_directory_name": "11",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/11/DRAW PLT STX V2.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 3,
+      "source_directory_name": "11",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/12/TRP TBL 1 CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/12/TRP TBL 1 CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 4,
       "source_directory_name": "12",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/12/DRAW TRP TBL 1.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 4,
+      "source_directory_name": "12",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/4/SAC Outreach '24 CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/13/SEP22_SQD STX_CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 5,
+      "source_directory_name": "13",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/14/SQD STX_CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 6,
+      "source_directory_name": "14",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/14/DRAW_SQD_STX_Jan22.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 6,
+      "source_directory_name": "14",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/15/1. JUN MED STX CONOP-VILSWASFT0NB098.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 7,
+      "source_directory_name": "15",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/16/ObstacleCourse CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 8,
+      "source_directory_name": "16",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/16/Air Assault Obstacle Course - DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 8,
+      "source_directory_name": "16",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/17/HHT TRP M4 Qual - CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 9,
+      "source_directory_name": "17",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/17/HHT M4 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 9,
+      "source_directory_name": "17",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/18/TAC STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 10,
+      "source_directory_name": "18",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/18/SQD STX DRAW - Scouts.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 10,
+      "source_directory_name": "18",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/19/Range 108 CONOP M500.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 11,
+      "source_directory_name": "19",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/19/M500 Range - DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 11,
+      "source_directory_name": "19",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/2/M2 M240 Familiarization CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 12,
+      "source_directory_name": "2",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/2/21MAR DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 12,
+      "source_directory_name": "2",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/20/1-2CR M240 Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 13,
+      "source_directory_name": "20",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/21/CTRP M4M249 Qual.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 14,
+      "source_directory_name": "21",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/21/C TRP M4_M249 DRAW 23-25AUG.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 14,
+      "source_directory_name": "21",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/22/HHT TRP M4M249 Qual - CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 15,
+      "source_directory_name": "22",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/23/Mortar LFX 11-14OCT.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 16,
+      "source_directory_name": "23",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/24/1-2CR Mortars PLT STX CONOP.pdf.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 17,
+      "source_directory_name": "24",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/25/11 June Security STT.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 18,
+      "source_directory_name": "25",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/25/12 June DRA.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 18,
+      "source_directory_name": "25",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/26/SNP TRYOUTS CONUP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 19,
+      "source_directory_name": "26",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/26/17 June DRA.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 19,
+      "source_directory_name": "26",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/27/2025 Mortar Gunnery CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 20,
+      "source_directory_name": "27",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/27/20240515 24-28JUN24 Mortar Gunnery Draw unsigned.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 20,
+      "source_directory_name": "27",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/28/M17 Land Nav Range 28 July CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 21,
+      "source_directory_name": "28",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/28/M500 M17 Draw UNSIGNED.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 21,
+      "source_directory_name": "28",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/29/Best Mortar Comp JUN23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 22,
+      "source_directory_name": "29",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/3/28AUG24 AT4 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 23,
+      "source_directory_name": "3",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/3/AT4 DRAW for CO Signature.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 23,
+      "source_directory_name": "3",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/30/HHT Air Assault 18-19JUL23 PA250-FARP West.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 24,
+      "source_directory_name": "30",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/32/20230810 STT Mortar Firing Point.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 26,
+      "source_directory_name": "32",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/33/20230810 SST RTC and Break Contact.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 27,
+      "source_directory_name": "33",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/34/2023101011 Land Navigation.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 28,
+      "source_directory_name": "34",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/35/20231012 M4 Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 29,
+      "source_directory_name": "35",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/36/20231016-19 E3B Train Up.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 30,
+      "source_directory_name": "36",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/37/20240410 MTRS GTA 500 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 31,
+      "source_directory_name": "37",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/38/20240429 Mortar STX CONOP 07-09MAY24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 32,
+      "source_directory_name": "38",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/38/202401120 MORTAR STX DRAW spring stx.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 32,
+      "source_directory_name": "38",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/39/20240724 Landnav CONOP LANDNAV WEST.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 33,
+      "source_directory_name": "39",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/4/SAC Outreach '24 CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 34,
       "source_directory_name": "4",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/4/Petting Zoo DRAW unsigned.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 34,
+      "source_directory_name": "4",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/5/GTA 500 CONOP (23JUL)-VILSWASFT0TB026.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/40/20241118 MORTEP CONOP FY25.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 35,
+      "source_directory_name": "40",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/40/20241216 Mortar Gunnery DRAW FY25.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 35,
+      "source_directory_name": "40",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/41/20240823 MK19+M2 Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 36,
+      "source_directory_name": "41",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/41/20240825 MK19+M2 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 36,
+      "source_directory_name": "41",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/42/20270909 PL-PSG Stress Shoot.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 37,
+      "source_directory_name": "42",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/43/Range 312 Sniper CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 38,
+      "source_directory_name": "43",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/43/DRAW Reconnaissance Platoon 1-2CR Sniper LRM Range 312.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 38,
+      "source_directory_name": "43",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/44/Mustang MFRP SQD LFX RG 211 cao 16DEC24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 39,
+      "source_directory_name": "44",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/44/RG 211 Section LFX DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 39,
+      "source_directory_name": "44",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/45/20231013 DMRU CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 40,
+      "source_directory_name": "45",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/46/20231128 HHT M320 Range CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 41,
+      "source_directory_name": "46",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/47/20240301 Recon PLT M4 Range 124-126 v2.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 42,
+      "source_directory_name": "47",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/48/20240402 Skydio Fam CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 43,
+      "source_directory_name": "48",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/5/GTA 500 CONOP (23JUL)-VILSWASFT0TB026.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 44,
       "source_directory_name": "5",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/5/GTA 500 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 44,
+      "source_directory_name": "5",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (38) - Copy/C TRP TRM CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/6/M4 Stress_DEC25_Range123_CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 45,
+      "source_directory_name": "6",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/6/M4 Stress Shoot_DEC25_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 45,
+      "source_directory_name": "6",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/7/M4&M249 Qual&Stress_05JUN24_Range123_CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 46,
+      "source_directory_name": "7",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/7/M4&M249 Qual&Stress_05JUN24_Range123_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 46,
+      "source_directory_name": "7",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/8/PL&PSG Stress Shoot 18OCT24 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 47,
+      "source_directory_name": "8",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/8/PL&PSG Stress Shoot 18OCT24 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 47,
+      "source_directory_name": "8",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/9/PLT STX CONOP '24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 48,
+      "source_directory_name": "9",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/9/DRAW (PLT STX) - Real.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 48,
+      "source_directory_name": "9",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder/MAIN TRYOUTS CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 49,
+      "source_directory_name": "New folder",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (10) - Copy/20240505 M4 CONOP RG124.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 50,
+      "source_directory_name": "New folder (10) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (10) - Copy/20240603 M4 Range 126.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 50,
+      "source_directory_name": "New folder (10) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (11) - Copy/M500 M17 Qualification 20240725.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 51,
+      "source_directory_name": "New folder (11) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (11) - Copy/M500 Draw_unsigned.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 51,
+      "source_directory_name": "New folder (11) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (12) - Copy/11062024 M4 CONOP RNG 202A.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 52,
+      "source_directory_name": "New folder (12) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (12) - Copy/DD2977 M4 Familirization 25July2024.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 52,
+      "source_directory_name": "New folder (12) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (13) - Copy/19AUG24 CONOP M4 and 249 RG 101.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 53,
+      "source_directory_name": "New folder (13) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (14) - Copy/Range Density M67 1-2CR 27-29AUG.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 54,
+      "source_directory_name": "New folder (14) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (14) - Copy/Hand Grenade DRAW UNSIGNED.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 54,
+      "source_directory_name": "New folder (14) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (15) - Copy/202208 SQD LFX Conop v2.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 55,
+      "source_directory_name": "New folder (15) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (15) - Copy/202210 SQD LFX DRAW Updated.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 55,
+      "source_directory_name": "New folder (15) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (16) - Copy/202210 SQD STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 56,
+      "source_directory_name": "New folder (16) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (17) - Copy/M4_M249 Qual CONOP RG101.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 57,
+      "source_directory_name": "New folder (17) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (18) - Copy/M249 Qual CONOP RG102.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 58,
+      "source_directory_name": "New folder (18) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (19) - Copy/M4 Qual CONOP RG101.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 59,
+      "source_directory_name": "New folder (19) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (19) - Copy/20221206 B TRP M4 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 59,
+      "source_directory_name": "New folder (19) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (2)/AT4 M320  CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 60,
+      "source_directory_name": "New folder (2)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (2) - Copy/20231128-29 MK19 M2 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 61,
+      "source_directory_name": "New folder (2) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (20) - Copy/M17_M500 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 62,
+      "source_directory_name": "New folder (20) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (21) - Copy/20230329 Bull Gunnery RG204 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 63,
+      "source_directory_name": "New folder (21) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (22) - Copy/M3 Carl G Qual CONOP final.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 64,
+      "source_directory_name": "New folder (22) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (23) - Copy/M4_M249 Qual CONOP RG124 & 126 final.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 65,
+      "source_directory_name": "New folder (23) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (24) - Copy/M500 Qualification CONOP 18JUL23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 66,
+      "source_directory_name": "New folder (24) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (25) - Copy/PLT STX.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 67,
+      "source_directory_name": "New folder (25) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (25) - Copy/202307  STX DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 67,
+      "source_directory_name": "New folder (25) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (26) - Copy/202307 Bull TRP SQD LFX Conop.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 68,
+      "source_directory_name": "New folder (26) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (26) - Copy/202307 SQD LFX DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 68,
+      "source_directory_name": "New folder (26) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (27) - Copy/Team LFX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 69,
+      "source_directory_name": "New folder (27) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (28) - Copy/20231004 M240 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 70,
+      "source_directory_name": "New folder (28) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (29) - Copy/202205 BullTRP_RG204_SQD Livefire.PPTX",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 71,
+      "source_directory_name": "New folder (29) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (3) - Copy/20231011 M240 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 72,
+      "source_directory_name": "New folder (3) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (30) - Copy/28 JUN 2022 Obstacle Course.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 73,
+      "source_directory_name": "New folder (30) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (30) - Copy/20220628 Obstacle Course unsigned.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 73,
+      "source_directory_name": "New folder (30) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (31) - Copy/20220616 Spouse Spur Ride M4 Range CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 74,
+      "source_directory_name": "New folder (31) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (32) - Copy/20220624 Spur Ride Lane 3 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 75,
+      "source_directory_name": "New folder (32) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (32) - Copy/20220624 Spur Ride DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 75,
+      "source_directory_name": "New folder (32) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (33) - Copy/EIB and Night M4 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 76,
+      "source_directory_name": "New folder (33) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (34) - Copy/18 AUG 2022 Obstacle Course.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 77,
+      "source_directory_name": "New folder (34) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (35) - Copy/HTA Land Navigation CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 78,
+      "source_directory_name": "New folder (35) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (36) - Copy/02DEC24 Comanche M4 M249 Qual.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 79,
+      "source_directory_name": "New folder (36) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (37) - Copy/C TRP SQD STX - 07-10DEC24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 80,
+      "source_directory_name": "New folder (37) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (38) - Copy/C TRP TRM CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 81,
       "source_directory_name": "New folder (38) - Copy",
@@ -45,7 +933,39 @@
     },
     {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (40) - Copy/C TRP SQD STX 10-12FEB25.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (39) - Copy/14JAN25 M240 Qual CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 82,
+      "source_directory_name": "New folder (39) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (39) - Copy/M240 Qual DRAW RG206.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 82,
+      "source_directory_name": "New folder (39) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (4) - Copy/20240128 Bull – SQD LFX Range 307.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 83,
+      "source_directory_name": "New folder (4) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (4) - Copy/202401 BULL TRP SQD LFX DRAW (1).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 83,
+      "source_directory_name": "New folder (4) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (40) - Copy/C TRP SQD STX 10-12FEB25.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 84,
       "source_directory_name": "New folder (40) - Copy",
@@ -53,15 +973,39 @@
     },
     {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (42) - Copy/C TRP SLFX Range 307 One Slider.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (41) - Copy/12CR RNG CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 85,
+      "source_directory_name": "New folder (41) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (41) - Copy/12CR M4-M249 RNG DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 85,
+      "source_directory_name": "New folder (41) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (42) - Copy/C TRP SLFX Range 307 One Slider.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 86,
       "source_directory_name": "New folder (42) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (42) - Copy/SLFX DRAW RG 307.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 86,
+      "source_directory_name": "New folder (42) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (43) - Copy/C TRP TRM CONOP (1).pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (43) - Copy/C TRP TRM CONOP (1).pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 87,
       "source_directory_name": "New folder (43) - Copy",
@@ -69,39 +1013,223 @@
     },
     {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (59) - Copy/M4_M249 Qual_Stress Shoot CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (44) - Copy/SQD LFX RNG 305 20231205.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 88,
+      "source_directory_name": "New folder (44) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (44) - Copy/DRAW, SQD LFX 20231205.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 88,
+      "source_directory_name": "New folder (44) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (45) - Copy/Team LFX CONOP (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 89,
+      "source_directory_name": "New folder (45) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (46) - Copy/Comanche SUAS IQT CONOP MARCH2024.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 90,
+      "source_directory_name": "New folder (46) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (47) - Copy/20240425 M17 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 91,
+      "source_directory_name": "New folder (47) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (48) - Copy/20240429 DMR Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 92,
+      "source_directory_name": "New folder (48) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (49) - Copy/Team LFX RNG 211 20240429.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 93,
+      "source_directory_name": "New folder (49) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (5) - Copy/M4_M249 Qual CONOP RG126 13Feb.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 94,
+      "source_directory_name": "New folder (5) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (50) - Copy/20240506 PLT STX.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 95,
+      "source_directory_name": "New folder (50) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (51) - Copy/20240826 M4 Range CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 96,
+      "source_directory_name": "New folder (51) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (52) - Copy/AUG24 Q4 Range Density 320 Ranges.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 97,
+      "source_directory_name": "New folder (52) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (53) - Copy/Combined CONOP RNG 211 07-10OCT.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 98,
+      "source_directory_name": "New folder (53) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (54) - Copy/OCT SQD LFX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 99,
+      "source_directory_name": "New folder (54) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (54) - Copy/DRAW, SQD LFX 20231205 (1).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 99,
+      "source_directory_name": "New folder (54) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (55) - Copy/RG124 & 126 Qual 28NOV23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 100,
+      "source_directory_name": "New folder (55) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (56) - Copy/M240 QUAL Range 29NOV23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 101,
+      "source_directory_name": "New folder (56) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (57) - Copy/M2, MK19, & SDMR QUAL CONOP 30NOV23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 102,
+      "source_directory_name": "New folder (57) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (58) - Copy/SLFX RG 118 CONOP, Sequence, and Engagements [Autosaved].pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 103,
+      "source_directory_name": "New folder (58) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (59) - Copy/M4_M249 Qual_Stress Shoot CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 104,
       "source_directory_name": "New folder (59) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (59) - Copy/M4 M249 Qual-Stress Draw.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 104,
+      "source_directory_name": "New folder (59) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (60) - Copy/Carl G and AT-4 CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (6) - Copy/20241303 PLT STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 105,
+      "source_directory_name": "New folder (6) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (60) - Copy/Carl G and AT-4 CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 106,
       "source_directory_name": "New folder (60) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (60) - Copy/Carl G and AT-4 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 106,
+      "source_directory_name": "New folder (60) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (61) - Copy/CONOP ADV MTD MVR STX 10-12FEB.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (61) - Copy/CONOP ADV MTD MVR STX 10-12FEB.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 107,
       "source_directory_name": "New folder (61) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (61) - Copy/Mounted Manuever STX DRAW 10-12FEB.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 107,
+      "source_directory_name": "New folder (61) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (62) - Copy/A TRP TRM.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (62) - Copy/A TRP TRM.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 108,
       "source_directory_name": "New folder (62) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (62) - Copy/A TRP TRM DRAW 26FEB25.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 108,
+      "source_directory_name": "New folder (62) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (63) - Copy/RZ Mike SQD STX.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (63) - Copy/RZ Mike SQD STX.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 109,
       "source_directory_name": "New folder (63) - Copy",
@@ -109,39 +1237,111 @@
     },
     {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (64) - Copy/12 Mile Foot March & BBQ.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (64) - Copy/12 Mile Foot March & BBQ.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 110,
       "source_directory_name": "New folder (64) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (64) - Copy/12mi Foot March DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 110,
+      "source_directory_name": "New folder (64) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (65) - Copy/CONOP Stryker Operator Course Apache TRP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (65) - Copy/CONOP Stryker Operator Course Apache TRP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 111,
       "source_directory_name": "New folder (65) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (65) - Copy/Stryker Operator Course DRAW (unsigned).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 111,
+      "source_directory_name": "New folder (65) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (67) - Copy/M67 Hand Grenade Range.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (66) - Copy/M4_M249 Qual CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 112,
+      "source_directory_name": "New folder (66) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (66) - Copy/M4 M249 Qual Draw.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 112,
+      "source_directory_name": "New folder (66) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (67) - Copy/M67 Hand Grenade Range.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 113,
       "source_directory_name": "New folder (67) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (67) - Copy/Example Hand Grenade DRAW UNSIGNED.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 113,
+      "source_directory_name": "New folder (67) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (68) - Copy/Obstacle Course.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (68) - Copy/Obstacle Course.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 114,
       "source_directory_name": "New folder (68) - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (69) - Copy/M4 Range 16OCT25 B.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 115,
+      "source_directory_name": "New folder (69) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (7) - Copy/M500 Qualification CONOP 24 APR 24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 116,
+      "source_directory_name": "New folder (7) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (70) - Copy/AT-4 Range CONOP 30NOV.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 117,
+      "source_directory_name": "New folder (70) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (71) - Copy/M240 QUAL Range 29NOV23 (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 118,
+      "source_directory_name": "New folder (71) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
       "type": "DRAW",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (71) - Copy/M240-Range-DRAW---Apache-Troop-29NOV.pdf",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (71) - Copy/M240-Range-DRAW---Apache-Troop-29NOV.pdf",
       "reason": "Unable to extract text",
       "source_directory_id": 118,
       "source_directory_name": "New folder (71) - Copy",
@@ -149,7 +1349,79 @@
     },
     {
       "type": "CONOP",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (76) - Copy - Copy/SAC Outreach '24 CONOP.pptx",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (71) - Copy - Copy/M320_RANGE_28NOV23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 119,
+      "source_directory_name": "New folder (71) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (71) - Copy - Copy/M320 Draw 28NOV (SIGNED).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 119,
+      "source_directory_name": "New folder (71) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (72) - Copy - Copy/M2 M240 Familiarization CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 120,
+      "source_directory_name": "New folder (72) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (72) - Copy - Copy/15MAR DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 120,
+      "source_directory_name": "New folder (72) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (73) - Copy - Copy/Shoot House_04JUN24_UAC_CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 121,
+      "source_directory_name": "New folder (73) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (73) - Copy - Copy/Shoot House_04JUN24_UAC_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 121,
+      "source_directory_name": "New folder (73) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (74) - Copy - Copy/OTR RG201 CO CALFEX 01NOV23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 122,
+      "source_directory_name": "New folder (74) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (74) - Copy - Copy/OTR COY CALFEX RG201 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 122,
+      "source_directory_name": "New folder (74) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (75) - Copy - Copy/A TRP 1st SQDN RG 202 M17 Range - 04 OCT 23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 123,
+      "source_directory_name": "New folder (75) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (76) - Copy - Copy/SAC Outreach '24 CONOP.pptx",
       "reason": "PPTX contained no extractable text",
       "source_directory_id": 124,
       "source_directory_name": "New folder (76) - Copy - Copy",
@@ -157,26 +1429,1290 @@
     },
     {
       "type": "DRAW",
-      "path": "/Users/arpithaprakash/Capstone/1-2CR CONOPS&DRAWs - Copy/New folder (81) - Copy - Copy/A TRP RG 211 DRAW 21-23JUL23 Signed.pdf",
-      "reason": "Unable to extract text",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (76) - Copy - Copy/Petting Zoo DRAW unsigned.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 124,
+      "source_directory_name": "New folder (76) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (77) - Copy - Copy/Land Nav CONOP 15-16 May 23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 125,
+      "source_directory_name": "New folder (77) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (77) - Copy - Copy/Land Nav (DRAW) 15-16MAY23.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 125,
+      "source_directory_name": "New folder (77) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (78) - Copy - Copy/A TRP 1st SQDN RG 102 M4 Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 126,
+      "source_directory_name": "New folder (78) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (79) - Copy - Copy/A TRP 1st SQDN Pistol and Shotgun CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 127,
+      "source_directory_name": "New folder (79) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (8) - Copy/20240425 AT4 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 128,
+      "source_directory_name": "New folder (8) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (8) - Copy/20240425 AT4 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 128,
+      "source_directory_name": "New folder (8) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (80) - Copy - Copy/A TRP 1st SQDN RG 126 M4 Range - 24 JUL 23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 129,
+      "source_directory_name": "New folder (80) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (81) - Copy - Copy/1_2CR Apache TRP SQD LFX RNG 211 21-23JUL23 V3.pptx",
+      "reason": "PPTX contained no extractable text",
       "source_directory_id": 130,
       "source_directory_name": "New folder (81) - Copy - Copy",
       "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
     },
     {
       "type": "DRAW",
-      "path": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (50)/Gunnery Draw Table 6 SIGNED.pdf",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (81) - Copy - Copy/A TRP RG 211 DRAW 21-23JUL23 Signed.pdf",
       "reason": "Unable to extract text",
+      "source_directory_id": 130,
+      "source_directory_name": "New folder (81) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (82) - Copy - Copy/War Eagle Platoon LFX RNG 201 V3.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 131,
+      "source_directory_name": "New folder (82) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (82) - Copy - Copy/WE PLT LFX DRAW V1.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 131,
+      "source_directory_name": "New folder (82) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (83) - Copy - Copy/Apache Troop SQD LFX RG 213 11-14OCT.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 132,
+      "source_directory_name": "New folder (83) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (83) - Copy - Copy/Apache Squad LFX OCT22 draw.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 132,
+      "source_directory_name": "New folder (83) - Copy - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder (9) - Copy/20240426 M4 M249 CONOP RG124 126.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 133,
+      "source_directory_name": "New folder (9) - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy/20240411 PLT STX PA256N 09-10 MAY24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 134,
+      "source_directory_name": "New folder - Copy",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (10)/20230810 SST Mortar Firing Point.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 135,
+      "source_directory_name": "New folder - Copy (10)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (10)/DD2977_PLT STX_10AUG23.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 135,
+      "source_directory_name": "New folder - Copy (10)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (11)/Land Nav South CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 136,
+      "source_directory_name": "New folder - Copy (11)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (11)/07-09OCT Land Nav DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 136,
+      "source_directory_name": "New folder - Copy (11)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (12)/20241028 Drivers Proficiency Training MICRO (CAO 24OCT).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 137,
+      "source_directory_name": "New folder - Copy (12)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (13)/Bull Troop– PROFICENCY FIRE RG 118 CONSKILLS.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 138,
+      "source_directory_name": "New folder - Copy (13)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (13)/RG 118 PROFICIENCY FIRE  DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 138,
+      "source_directory_name": "New folder - Copy (13)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (14)/202412XX SQD FTX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 139,
+      "source_directory_name": "New folder - Copy (14)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (15)/Toys For Tots March 28 DEC 24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 140,
+      "source_directory_name": "New folder - Copy (15)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (15)/Toys For Tots DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 140,
+      "source_directory_name": "New folder - Copy (15)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (16)/Carl G AT4 Conop.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 141,
+      "source_directory_name": "New folder - Copy (16)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (17)/M240 SDMR Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 142,
+      "source_directory_name": "New folder - Copy (17)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (18)/M4 M249 RNG 101.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 143,
+      "source_directory_name": "New folder - Copy (18)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (19)/M4 M249 RNG 123.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 144,
+      "source_directory_name": "New folder - Copy (19)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (2)/20240408 LRM RG114 17May.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 145,
+      "source_directory_name": "New folder - Copy (2)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (20)/RNG 102 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 146,
+      "source_directory_name": "New folder - Copy (20)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (21)/Pistol Shotgun RNG 108 06 DEC RANGE CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 147,
+      "source_directory_name": "New folder - Copy (21)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (22)/20241209 SQD STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 148,
+      "source_directory_name": "New folder - Copy (22)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (22)/20241209 SQD FTX DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 148,
+      "source_directory_name": "New folder - Copy (22)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (23)/Bull Troop SQD LFX Range 118 COA.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 149,
+      "source_directory_name": "New folder - Copy (23)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (23)/SLFX DRAW RG 118 Bull Troop_Unsigned.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 149,
+      "source_directory_name": "New folder - Copy (23)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (24)/Bull Troop SQD LFX Range 118 COA (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 150,
+      "source_directory_name": "New folder - Copy (24)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (24)/SLFX DRAW RG 118 Bull Troop_Unsigned (1).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 150,
+      "source_directory_name": "New folder - Copy (24)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (25)/Bull Troop Gunnery BSS CONOPS.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 151,
+      "source_directory_name": "New folder - Copy (25)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (26)/26FEB2025_1BULL_STT_CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 152,
+      "source_directory_name": "New folder - Copy (26)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (26)/26FEB2025_1BULL_STT_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 152,
+      "source_directory_name": "New folder - Copy (26)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (27)/Bull Troop– PROFICENCY FIRE RG 118 CONSKILLS (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 153,
+      "source_directory_name": "New folder - Copy (27)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (27)/RG 118 PROFICIENCY FIRE  DRAW (1).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 153,
+      "source_directory_name": "New folder - Copy (27)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (28)/19-20 MAR Recon STT.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 154,
+      "source_directory_name": "New folder - Copy (28)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (28)/19-20MAR PLT sUAS Recon STTs DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 154,
+      "source_directory_name": "New folder - Copy (28)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (29)/25MAR Stryker Hide and Seek STT CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 155,
+      "source_directory_name": "New folder - Copy (29)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (29)/25MAR PLT sUAS Hide and Seek STTs DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 155,
+      "source_directory_name": "New folder - Copy (29)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (3)/20240411 Land NAV West suAS 13MAY24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 156,
+      "source_directory_name": "New folder - Copy (3)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (3)/20240424 Recon PLT OPs, Stalks, and Advanced sUAS Training DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 156,
+      "source_directory_name": "New folder - Copy (3)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (30)/B TRP GTA 500 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 157,
+      "source_directory_name": "New folder - Copy (30)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (30)/B TRP GTA500 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 157,
+      "source_directory_name": "New folder - Copy (30)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (31)/Bull Trp SQD STX.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 158,
+      "source_directory_name": "New folder - Copy (31)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (31)/DRAW Bull TRP Squad STX 08-10 APR CO Signed).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 158,
+      "source_directory_name": "New folder - Copy (31)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (32)/B TRP Dismounted Land Nav RZ I 24JUN25.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 159,
+      "source_directory_name": "New folder - Copy (32)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (33)/Dig Site A CONOP 19-20AUG25.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 160,
+      "source_directory_name": "New folder - Copy (33)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (33)/19-20AUG Dig Site A DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 160,
+      "source_directory_name": "New folder - Copy (33)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (34)/OTR PLT LFX RG 118 cao 28NOV23.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 161,
+      "source_directory_name": "New folder - Copy (34)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (34)/20231103 OTR PLT LFX Range 118 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 161,
+      "source_directory_name": "New folder - Copy (34)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (35)/TF TRIDENT– Platoon STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 162,
+      "source_directory_name": "New folder - Copy (35)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (35)/20231026 OTR PLT STX DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 162,
+      "source_directory_name": "New folder - Copy (35)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (4)/SQDN CS Chamber 25APR2024.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 163,
+      "source_directory_name": "New folder - Copy (4)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (4)/20JUN24-CBRN Chamber DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 163,
+      "source_directory_name": "New folder - Copy (4)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (5)/202408 RG131 M500 and M17.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 164,
+      "source_directory_name": "New folder - Copy (5)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (6)/E2B M4 RG101.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 165,
+      "source_directory_name": "New folder - Copy (6)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (7)/Buddy TM LFX RG 206.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 166,
+      "source_directory_name": "New folder - Copy (7)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (8)/20230731 Sniper Tryouts CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 167,
+      "source_directory_name": "New folder - Copy (8)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (8)/20230801 Sniper Tryouts DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 167,
+      "source_directory_name": "New folder - Copy (8)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (9)/20230807 Sniper Tryout CONOP v2.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 168,
+      "source_directory_name": "New folder - Copy (9)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/1-2CR CONOPS&DRAWs - Copy/New folder - Copy (9)/20230801 Sniper Tryouts Ruck DRAW (Signed).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 168,
+      "source_directory_name": "New folder - Copy (9)",
+      "source_base_directory": "1-2CR CONOPS&DRAWs - Copy"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder/UBSC23 Range M240BL CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 169,
+      "source_directory_name": "New folder",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy/RG124 Group & Zero CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 170,
+      "source_directory_name": "New folder - Copy",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy/Ryan_RG124_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 170,
+      "source_directory_name": "New folder - Copy",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (10)/DAGR and Land Nav Class CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 171,
+      "source_directory_name": "New folder - Copy (10)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (10)/DAGR and Land Nav Class DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 171,
+      "source_directory_name": "New folder - Copy (10)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (11)/RG123 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 182,
+      "source_directory_name": "New folder - Copy (11)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (12)/ARM_URM Conop.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 184,
+      "source_directory_name": "New folder - Copy (12)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (12)/Ryan_ARM_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 184,
+      "source_directory_name": "New folder - Copy (12)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (13)/Sniper Range 17 MAY RG 311.PPTX",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 185,
+      "source_directory_name": "New folder - Copy (13)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (14)/RG109 Sniper Range (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 186,
+      "source_directory_name": "New folder - Copy (14)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (14)/Ryan_RG109_DRAW (1).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 186,
+      "source_directory_name": "New folder - Copy (14)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (15)/SUAS CONOP APR 12-13.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 187,
+      "source_directory_name": "New folder - Copy (15)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (15)/SUAS Draw_12_13APR.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 187,
+      "source_directory_name": "New folder - Copy (15)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (16)/SUAS CONOP JUL 20-21 (FARP West) (1).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 188,
+      "source_directory_name": "New folder - Copy (16)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (16)/SUAS Draw_20-21JUL.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 188,
+      "source_directory_name": "New folder - Copy (16)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (17)/MORTEP 26 CONOPS III-VI.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 189,
+      "source_directory_name": "New folder - Copy (17)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (18)/Handheld Training.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 190,
+      "source_directory_name": "New folder - Copy (18)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (18)/Handheld and BMC Training DRAW Jang.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 190,
+      "source_directory_name": "New folder - Copy (18)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (19)/Land Nav.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 191,
+      "source_directory_name": "New folder - Copy (19)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (19)/Land Nav DRAW 19-20FEB.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 191,
+      "source_directory_name": "New folder - Copy (19)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (20)/TM LFX.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 193,
+      "source_directory_name": "New folder - Copy (20)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (20)/Mortar Team LFX DRAW Jang Signed.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 193,
+      "source_directory_name": "New folder - Copy (20)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (21)/V Corps Best Squad CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 194,
+      "source_directory_name": "New folder - Copy (21)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (22)/SP23 Gunnery - PLT LFX OPORD Brief.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 195,
+      "source_directory_name": "New folder - Copy (22)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (22)/Gunnery Draw.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 195,
+      "source_directory_name": "New folder - Copy (22)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (23)/CONOP Land Navigation (2).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 196,
+      "source_directory_name": "New folder - Copy (23)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (24)/OP 6 FY-23 Mortar Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 197,
+      "source_directory_name": "New folder - Copy (24)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (24)/OP6 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 197,
+      "source_directory_name": "New folder - Copy (24)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (25)/Medical Conskills (27 NOV – 08 DEC).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 198,
+      "source_directory_name": "New folder - Copy (25)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (25)/DRAW for CON SKILLS.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 198,
+      "source_directory_name": "New folder - Copy (25)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (26)/Claymore 08JAN CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 199,
+      "source_directory_name": "New folder - Copy (26)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (26)/Killer Claymore OCT DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 199,
+      "source_directory_name": "New folder - Copy (26)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (27)/SQD LFX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 200,
+      "source_directory_name": "New folder - Copy (27)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (27)/Killer SQD LFX DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 200,
+      "source_directory_name": "New folder - Copy (27)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (29)/PISTOL CONOP [Autosaved].pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 202,
+      "source_directory_name": "New folder - Copy (29)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (3)/RG109 Sniper Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 203,
+      "source_directory_name": "New folder - Copy (3)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (3)/Ryan_RG109_DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 203,
+      "source_directory_name": "New folder - Copy (3)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (30)/M320 CONOP1.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 204,
+      "source_directory_name": "New folder - Copy (30)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (31)/240 and 249 Range 13-14MAR CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 205,
+      "source_directory_name": "New folder - Copy (31)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (32)/Range 112_240 and 249 Range 13-14MAR CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 206,
+      "source_directory_name": "New folder - Copy (32)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (33)/M2 MK19 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 207,
+      "source_directory_name": "New folder - Copy (33)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (34)/M4 M249 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 208,
+      "source_directory_name": "New folder - Copy (34)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (34)/dd2977_SRM114 SIGNED.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 208,
+      "source_directory_name": "New folder - Copy (34)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (35)/SDMR Conop Completed.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 209,
+      "source_directory_name": "New folder - Copy (35)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (36)/Killer Troop URM CONOP - Copy.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 210,
+      "source_directory_name": "New folder - Copy (36)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (36)/Killer URM AUG DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 210,
+      "source_directory_name": "New folder - Copy (36)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (37)/MG Academy CONSKILLS CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 211,
+      "source_directory_name": "New folder - Copy (37)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (37)/MGU CONSKILLS DRAW '24.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 211,
+      "source_directory_name": "New folder - Copy (37)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (38)/Familiy Shoot.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 212,
+      "source_directory_name": "New folder - Copy (38)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (38)/SFRG Range DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 212,
+      "source_directory_name": "New folder - Copy (38)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (39)/TOWER CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 213,
+      "source_directory_name": "New folder - Copy (39)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (4)/SUAS CONOP JUL 20-21 (FARP West).pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 214,
+      "source_directory_name": "New folder - Copy (4)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (40)/SQD LFX CONOP THIS ONE.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 215,
+      "source_directory_name": "New folder - Copy (40)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (41)/MOUNTED SECTION STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 216,
+      "source_directory_name": "New folder - Copy (41)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (41)/Mounted STX DRAW Signed 1.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 216,
+      "source_directory_name": "New folder - Copy (41)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (42)/Squad Maneuver I CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 217,
+      "source_directory_name": "New folder - Copy (42)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (43)/SQD Maneuver II CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 218,
+      "source_directory_name": "New folder - Copy (43)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (44)/Thanksgiving Morale Event CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 219,
+      "source_directory_name": "New folder - Copy (44)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (45)/20 Aug 3L PLT CQB CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 220,
+      "source_directory_name": "New folder - Copy (45)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (46)/23-24 JUL 3L Medical Training CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 221,
+      "source_directory_name": "New folder - Copy (46)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (46)/Medical Training 23-24JUL24 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 221,
+      "source_directory_name": "New folder - Copy (46)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (47)/25-27 JUN Mounted.Dismounted CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 222,
+      "source_directory_name": "New folder - Copy (47)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (47)/MountedDismounted 25-27JUN24 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 222,
+      "source_directory_name": "New folder - Copy (47)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (48)/TM LFX Lightning CONOP 31OCT-2NOV24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 223,
+      "source_directory_name": "New folder - Copy (48)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (49)/Lightning Claymore CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 224,
+      "source_directory_name": "New folder - Copy (49)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (5)/Obstacle Course CONOP TAC 18OCT2024.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 225,
+      "source_directory_name": "New folder - Copy (5)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (50)/Troop August Gunnery CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
       "source_directory_id": 226,
       "source_directory_name": "New folder - Copy (50)",
       "source_base_directory": "3-2CR CONOPs&DRAWs"
     },
     {
       "type": "DRAW",
-      "path": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (7)/M17 2APR DRAW TAC PLT.pdf",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (50)/Gunnery Draw Table 6 SIGNED.pdf",
+      "reason": "Unable to extract text",
+      "source_directory_id": 226,
+      "source_directory_name": "New folder - Copy (50)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (51)/Patrol lanes AUG 6-9 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 227,
+      "source_directory_name": "New folder - Copy (51)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (51)/Patrol Lanes 6-9AUG24 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 227,
+      "source_directory_name": "New folder - Copy (51)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (52)/M4 Marksmanship CONSKILLS Slide deck.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 228,
+      "source_directory_name": "New folder - Copy (52)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (52)/DRAW Stress Shoot M4 Marksmanship.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 228,
+      "source_directory_name": "New folder - Copy (52)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (53)/SQD STX CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 229,
+      "source_directory_name": "New folder - Copy (53)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (54)/Range 201 04APR24 CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 230,
+      "source_directory_name": "New folder - Copy (54)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (55)/SQD LFX RNG 118 March 1st CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 231,
+      "source_directory_name": "New folder - Copy (55)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (56)/Squadron Range Density - M320 Range.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 232,
+      "source_directory_name": "New folder - Copy (56)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (56)/Squadron Range Density- M320 DRAW.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 232,
+      "source_directory_name": "New folder - Copy (56)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (57)/Gunnery Table V CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 233,
+      "source_directory_name": "New folder - Copy (57)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (58)/320 CONOP QUAL.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 234,
+      "source_directory_name": "New folder - Copy (58)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (58)/M320 Draw Range 203 Update signed.pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 234,
+      "source_directory_name": "New folder - Copy (58)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (59)/M2 Machine Gun and MK-19 Range CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 235,
+      "source_directory_name": "New folder - Copy (59)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (6)/Range Density 2025 Pistol Shotgun.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 236,
+      "source_directory_name": "New folder - Copy (6)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (60)/M17qual_JUN2023.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 237,
+      "source_directory_name": "New folder - Copy (60)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (61)/M4qual_JUN2023.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 238,
+      "source_directory_name": "New folder - Copy (61)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (62)/Team STXs_16 to 19JAN24.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 239,
+      "source_directory_name": "New folder - Copy (62)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (63)/USAEUR-AR Best SQD M4 CONOP_2 1.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 240,
+      "source_directory_name": "New folder - Copy (63)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (7)/TAC Pistol Qual 2APR2025.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 247,
+      "source_directory_name": "New folder - Copy (7)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (7)/M17 2APR DRAW TAC PLT.pdf",
       "reason": "Unable to extract text",
       "source_directory_id": 247,
       "source_directory_name": "New folder - Copy (7)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (8)/ARM CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 258,
+      "source_directory_name": "New folder - Copy (8)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "CONOP",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (9)/Drivers Training CONOP.pptx",
+      "reason": "PPTX contained no extractable text",
+      "source_directory_id": 269,
+      "source_directory_name": "New folder - Copy (9)",
+      "source_base_directory": "3-2CR CONOPs&DRAWs"
+    },
+    {
+      "type": "DRAW",
+      "path": "/Users/arpithaprakash/mission-ready-in-20/3-2CR CONOPs&DRAWs/New folder - Copy (9)/HHT Driver's TRNG DRAW (Unsigned).pdf",
+      "reason": "Detected XFA form but XFA dependencies are missing",
+      "source_directory_id": 269,
+      "source_directory_name": "New folder - Copy (9)",
       "source_base_directory": "3-2CR CONOPs&DRAWs"
     }
   ]

@@ -1,0 +1,217 @@
+{
+  "conops": {
+    "filename": "Team STXs_16 to 19JAN24.pptx",
+    "path": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (62)/Team STXs_16 to 19JAN24.pptx",
+    "sections": {
+      "PURPOSE": "of this Team STXs is to train fire teams in Battle Drills 1, 3, 5, and develop TLs leadership and tactical proficiency.",
+      "KEY TASKS": "Create STXs lanes\nConduct Mounted MVT to the Range\nPLs, PSGs, and SLs observe and instruct their fire teams through numerous STXs lanes",
+      "END STATE": "All Kronos Troop Fire Teams successful conduct numerous day and night iterations of Team STXs, and conduct force-on-force training on the final day.\nTraining Objectives:\nTeam React to Contact Team conducts Frontal Assault on enemy OP\nTeam conducts Battle Drill 3\nTeam Knocks out and clears a bunker Team Leader sends SPOTREP Fire Teams gain experience on their weapon systems, managing rates of fire, and buddy team bounding\nResourcing\nCLI: A-M-A Rations Cycle\nCLIII: 2liters CLP\nCLIV: 250 Sandbags, 2x Plywood or 2x Pallets\nCLV: Requested 21,600 5.56 Blank, 25,200 L5.56 Linked Blank, 36 M18 Smoke Grenades CLVIII: By PLT, x1 Stryker, x1 Medic Misc: 2x 10lb Fire extinguishers (coordinating with DISTRO)\nBack Side Support\nInstructors/Lane Walkers: PLs, PSGs, SLs\nAmmo Point: x1 NCO, x2 Ammo Guard during operation",
+      "MISSION": "K TRP, 3/2CR conducts Teams STX for all Kronos Troop Fire Teams at RZ A on 16-19 JAN 2024. Team STXs will provide Fire Teams training in preparation for Team, Squad, and PLT live fires.\nPL SLOTHS\nLOA DOG\nTeam STXs (16-19JAN23) – K TRP"
+    },
+    "source_directory_id": 239,
+    "source_directory_name": "New folder - Copy (62)",
+    "source_base_directory": "3-2CR CONOPs&DRAWs"
+  },
+  "draw": {
+    "mission_task_and_description": "Team STXs 16-19 January 2024",
+    "date": "2023-11-30",
+    "prepared_by": {
+      "name_last_first_middle_initial": "Wuerthner, Christian, A.",
+      "rank_grade": "1LT/O2",
+      "duty_title_position": "Platoon Leader",
+      "unit": "K-TRP/ 3-2CR",
+      "work_email": "christian.a.wuerthner.mil@army.mil",
+      "telephone": "+49 15229865738",
+      "uic_cin": "WDA6K0",
+      "training_support_or_lesson_plan_or_opord": "Team STXs CONOP",
+      "signature_of_preparer": null
+    },
+    "subtasks": [
+      {
+        "subtask": {
+          "name": "Movement to RZ A"
+        },
+        "hazard": "1. Vehicular Accident",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Convoy Leaders will give ramp brief prior to movement. Vehicle Crews will wear all required PPE while operating tactical vehicles. Vehicles will follow range roads and use ground guides in parking areas."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Ramp Brief, Proper PPE, Ground Guides, Follow Roads"
+            ]
+          },
+          "who": {
+            "values": [
+              "Vehicle Crews, Convoy Leaders, PLT Leadership"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Movement to RZ A"
+        },
+        "hazard": "2. Poor Winter Road Conditions",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Vehicle Crews will place snow chains on their vehicles if road conditions deteriorate. Additionally, Vehicle Crews will drive at reduced speed limits to and from the Range. These actions will be conducted on order from Convoy Leaders."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Convoy Leaders will review weather data and make decisions based on the ground conditions."
+            ]
+          },
+          "who": {
+            "values": [
+              "Convoy Leaders, Vehicle Crews, Training Leadership"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Team STXs"
+        },
+        "hazard": "1. Eye Injuries",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Soliders will wear approved ballistic eye wear while conducting STX Lanes to prevent any injuries to soldiers eyes."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "PCC/PCI, Enforcement of PPE wearing"
+            ]
+          },
+          "who": {
+            "values": [
+              "PLT Leadership"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Team STXs"
+        },
+        "hazard": "2. Weather",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Training will cease in the event of severe weather. GTA range operations desk will be called if the weather is put into question."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Safety Brief"
+            ]
+          },
+          "who": {
+            "values": [
+              "PLT Leadership and SMs"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Team STXs"
+        },
+        "hazard": "3. Wildlife",
+        "initial_risk_level": "L",
+        "control": {
+          "values": [
+            "Service Members will be briefed not to interact with local wildlife. Medic will attend to any injuries from local wildlife/insects."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Safety Brief"
+            ]
+          },
+          "who": {
+            "values": [
+              "PLT Leadership and SMs"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Team STXs"
+        },
+        "hazard": "4. Cold Weather Causality",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Service Members will pack adequate Cold Weather gear for Training, in accordance with the published packing list. Strykers will be available for service members to warm up in as needed/."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Packing List, PCCs/PCIs, Use of Strykers for Heat"
+            ]
+          },
+          "who": {
+            "values": [
+              "Platoon Leadership, and Vehicle Crews"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Team STXs"
+        },
+        "hazard": "5. Hearing Loss",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Platoon leadership will inspect for hearing protection, to ensure Troopers have standard issue protection or they will be provided hearing protection prior to firing b weapon."
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "PCCs/PCIs, Extra Hearing Protection available on site,"
+            ]
+          },
+          "who": {
+            "values": [
+              "Platoon Leadership"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      }
+    ],
+    "overall_residual_risk_level": "L",
+    "overall_supervision_plan": null,
+    "approval_or_disapproval_of_mission_or_task": {
+      "approve": 0,
+      "disapprove": 0
+    },
+    "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (62)/DRAW for Team STXs Signed.pdf",
+    "source_directory_id": 239,
+    "source_directory_name": "New folder - Copy (62)",
+    "source_base_directory": "3-2CR CONOPs&DRAWs"
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "conops": {
+    "filename": "RG123 CONOP.pptx",
+    "path": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (11)/RG123 CONOP.pptx",
+    "sections": {
+      "PURPOSE": "3/2CR requires Soldiers to group and zero their individual weapon systems in preparation to qualify on individual weapon systems and prepare for future combat operations.",
+      "MISSION": "3/2CR conducts Group/Zero and Qualification Range IOT qualify on individual weapon systems and prepare for future combat operations.",
+      "END STATE": "All firers complete Table VI (Qualification) IAW with Appendix E, TC 3-20.40\nConcept of the Operation: This OPN will be conducted in III Phases:\nPhase I (Planning & Prep): Begins with identifying personnel to be trained and provide range support and ends when Range Support personnel SP to Range 123 NLT 020700OCT23.",
+      "KEY TASKS": "100% accountability of MWE, police call range, range cleared, ammo pickup, and safe movement back to RB.\nService & Support: Class I: M-M-M\nClass V: 100,000 Rounds 5.56MM Loose (AB57), 30,000 5.56 MM Linked (AB73)\n30 Rounds for Grouping and Zeroing per Firer\n40 Rounds AB57 Per Firer/Iteration\n100 Rounds AB73 Per Firer/Iteration\nMedical Support: PLT Medics Ammo DO – 020800OCT23/Ammo PU – 051430OCT23",
+      "EXECUTION": "): Begins when range support personnel SP to Range 123 and ends when training is complete NLT 051500OCT23.",
+      "COMMAND AND SIGNAL": "PACE Plan\nP: 163 (TSM)\nA: 163 (SINGARS)\nC: ATAK (HNC) E: Signal\nCourse of Fire: IAW TC 3-20.40\nUniform: Slick during G&Z and IAW Dragoon Standard during Qual\n23AUG23\n27SEP23\n28SEP23\n02-05OCT23\nTBD\n1. Plan the Training\n2. Train/Certify Leader\n3. Recon Training Site\n4. Issue the OPORD\n5. Rehearsal\n6. Exec. the Training\n7. Conduct an AAR\n8. Retrain/Retry\n29SEP23\n11OCT23\n26SEP23\nN\nPersonnel Required: 1x OIC, 1x RSO, 2x Gate Guard, 5x Safeties, 1x Medic, 2x MEV Crew, 1x Ammo NCO, 2x Ammo Detail, Fire Detail x2\nEquipment Required: Range Box, Engineer Tape, 2x DOS CL I, A8 Targetry, 1x MEV, 10x Barriers\nTimeline: 02-04OCT23\n0530 – FF\n0600 – Arms Room Draw\n0700 – Range Support SP\n0730 – Range Support RP/Occupy\n0800 – Troops Arrive/Ammo Drop\n0845 – Safety Brief\n0900 – Range Wet\n1800 – Range Dry\n2000 – Night Safety Brief\n2030 – Ammo Draw\n2100 – Range Wet\n2300 – Range Dry\nRG123 M4/M249 Qualification CONOP\nTimeline 05OCT23\n0800 - Troops Arrives\n0845– Safety Brief\n0900 – Range Wet\n1400 – Range Dry\n1430 – Ammo Pick-up\nNLT 1500 – Range Clear\nRange 123\nGrid: 32U QA 10024 05790\nSix Lanes\nFour reserved for qualification and two reserved for G&Z\nPriority of fire IAW with posted Regimental Schedule\nSquadrons are responsible for providing their own transportation and coaches\nParking\nTower/Ammo\nUnit Priority RG 123\nRG 123 Troops to Task"
+    },
+    "source_directory_id": 182,
+    "source_directory_name": "New folder - Copy (11)",
+    "source_base_directory": "3-2CR CONOPs&DRAWs"
+  },
+  "draw": {
+    "mission_task_and_description": "M4/M249 Qualification Range (02-05OCT23)",
+    "date": "2023-09-26",
+    "prepared_by": {
+      "name_last_first_middle_initial": "Ryan, Joseph, R.",
+      "rank_grade": "1LT/O-2",
+      "duty_title_position": "Platoon Leader",
+      "unit": "HHT, 3/2CR",
+      "work_email": "joseph.r.ryan47.mil@army.mil",
+      "telephone": "599-3704",
+      "uic_cin": "WDA6T0",
+      "training_support_or_lesson_plan_or_opord": "CONOP",
+      "signature_of_preparer": null
+    },
+    "subtasks": [
+      {
+        "subtask": {
+          "name": "Movement"
+        },
+        "hazard": "Vehicle Accident",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Post driving regulations",
+            "Route recon/Weather conditions",
+            "Movement brief",
+            "Ground guides"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Recon, disseminate information, safety brief, guide."
+            ]
+          },
+          "who": {
+            "values": [
+              "PLT Leadership, VC's, Drivers"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Movement"
+        },
+        "hazard": "Roll Over",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Ensure drivers are qualified",
+            "Roll-over drills",
+            "Safety/movement brief",
+            "Restraintes"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Conditions check and rehearsals"
+            ]
+          },
+          "who": {
+            "values": [
+              "VC's and Drivers"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Movement"
+        },
+        "hazard": "Vehicle Breakdown",
+        "initial_risk_level": "L",
+        "control": {
+          "values": [
+            "QA/QC'd by a mechanic",
+            "Proper PMCS",
+            "Proper markings",
+            "Recovery equipment"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Inspection"
+            ]
+          },
+          "who": {
+            "values": [
+              "PSG, VC's, Drivers, Mechanics"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Movement"
+        },
+        "hazard": "Vehicle Fire",
+        "initial_risk_level": "L",
+        "control": {
+          "values": [
+            "Servicable fire extinguishers",
+            "Functional fire suppression system",
+            "Crew drills"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Inspect and rehearse"
+            ]
+          },
+          "who": {
+            "values": [
+              "PLT Leadership. VC's, Drivers"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Negligent Discharge",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "PMI",
+            "Safety Brief",
+            "Train and certify leaders",
+            "Coaches and safeties on the firing line"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "PMI, Brief, Certify, Report"
+            ]
+          },
+          "who": {
+            "values": [
+              "OIC, RSO, Safeties, Coaches."
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Malfunction or Misfire",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "PMI",
+            "Safety Brief",
+            "Train and certify leaders",
+            "Report to range control"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "PMI, Brief, Certify, Report"
+            ]
+          },
+          "who": {
+            "values": [
+              "OIC, RSO, Safeties, Coaches"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Injury (MEDEVAC and CAEVAC)",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Range recon",
+            "Medic briefed routes and PACE",
+            "Class VIII inventory",
+            "Dedicated CASEVAC vehicle",
+            "Comms",
+            "PPE",
+            "Rehearsals",
+            "Saftey Brief"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Inspect, Brief, Rehearse"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO, Medic, MEV Driver"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Hearing and Vision Loss",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "PCC and PCI's",
+            "Proper PPE",
+            "Safeties",
+            "PMI"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "PCC and PCI's, PPE, Safeties, PMI"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO, Safeties"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Ammunition Fire",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Proper storage and organization of ammunition",
+            "Ammunition handler qualification",
+            "Proper markings of ASP",
+            "10BA Fire Extinguishers"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Inspection, Certification, Marking"
+            ]
+          },
+          "who": {
+            "values": [
+              "Ammo Handler, OIC, RSO"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Wildlife",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "All soldiers will avoid engaging wildlife and will notify RSO/OIC"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Brief during Range Safety Brief"
+            ]
+          },
+          "who": {
+            "values": [
+              "OIC/RSO"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Cold Weather Injuries",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "All Soldiers will have a water source",
+            "Appropriate cold weather uniform",
+            "OIC/RSO enforce and supervise Soldiers"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Leaders conduct PCC and PCI's"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO/OIC, TLs, NCIOC"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Hot Weather Injuries",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Leaders ensure Soldiers are drinking water",
+            "Utilize shade as needed"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Leaders conduct PCC and PCI's"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO/OIC, TLs, NCIOC"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Range Operations"
+        },
+        "hazard": "Unauthorized Vehicle Enters Range",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "ECP will be established at the entrance of the range",
+            "Guard will be posted and rotated hourly",
+            "Guard will monitor gate"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Brief during Range Safety Brief"
+            ]
+          },
+          "who": {
+            "values": [
+              "OIC/RSO, Gate Guard"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Zero"
+        },
+        "hazard": "Fratricide",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "RSO controls movement up and down the zero range/lanes",
+            "Firers will not make adjustments or touch weapons while downrange"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Range Safety Brief, commands from RSO"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Zero"
+        },
+        "hazard": "Movement on Range",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Movement to and from firing points controlled by RSO/Safeties",
+            "Movement up the range is controlled by RSO and safeties",
+            "1 Safety per two firers",
+            "Utilize PPE"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Range Safety Brief, control of movements"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO, Safeties"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Zero"
+        },
+        "hazard": "Movement Up/Down Range",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Firers will not move up and down range unless specified by OIC/RSO",
+            "Safeties will clear all weapons before firers move down range.",
+            "1 Safety per two firers",
+            "Utilize PPE"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Range Safety Brief, control of movements, dry run"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO, Safeties"
+            ]
+          }
+        },
+        "residual_risk_level": "L"
+      },
+      {
+        "subtask": {
+          "name": "Qualification"
+        },
+        "hazard": "Night Shoot",
+        "initial_risk_level": "M",
+        "control": {
+          "values": [
+            "Lanes will be clearly marked so firers will not cross over lanes",
+            "1 Safety per two firers",
+            "Utilize PPE"
+          ]
+        },
+        "how_to_implement": {
+          "how": {
+            "values": [
+              "Range Safety Brief, control of movements, proper marking"
+            ]
+          },
+          "who": {
+            "values": [
+              "RSO, Safeties"
+            ]
+          }
+        },
+        "residual_risk_level": null
+      }
+    ],
+    "overall_residual_risk_level": "L",
+    "overall_supervision_plan": "Newly identified risks will be recorded and mitigated accordingly and risk acceptance will be approved at the appropriate level. Leadership to include Troop Chain of Command, Range Officer in Charge, Range Safety Officer, and vehicle crew members will be the primary implementors of safety measures. The Range Safety Officer and Officer in Charge will give all Soldiers a range safety brief and are overall responsible fore overseeing safety during the entirety of training. Medics will be on site at all times and postured to respond to injuries and to evacuate casualties. Medics and MEV will conduct AXP route recon and response rehearsal prior to range start.",
+    "approval_or_disapproval_of_mission_or_task": {
+      "approve": 0,
+      "disapprove": 0
+    },
+    "source_pdf": "/Users/arpithaprakash/Capstone/3-2CR CONOPs&DRAWs/New folder - Copy (11)/RG123_DRAW.pdf",
+    "source_directory_id": 182,
+    "source_directory_name": "New folder - Copy (11)",
+    "source_base_directory": "3-2CR CONOPs&DRAWs"
+  }
+}
