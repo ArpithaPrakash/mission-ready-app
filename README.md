@@ -94,6 +94,7 @@ Use the merging script to combine CONOPS and DRAW JSON files from the same direc
    python3 upload_merged_json_to_postgres.py
    ```
 5. Verify upload in `psql`:
+   - In `psql` (execute `psql postgres`):
    ```sql
    SELECT COUNT(*) FROM merged_conops_draws;
    SELECT * FROM merged_conops_draws LIMIT 1;
