@@ -73,7 +73,7 @@ Use the merging script to combine CONOPS and DRAW JSON files from the same direc
 2. Create a database and table:
    - In `psql` (execute `psql postgres`):
      ```sql
-     CREATE DATABASE mrit_db OWNER "arpithaprakash";
+     CREATE DATABASE mrit_db OWNER "username";
      \c mrit_db
      CREATE TABLE merged_conops_draws (
          id SERIAL PRIMARY KEY,
@@ -86,7 +86,7 @@ Use the merging script to combine CONOPS and DRAW JSON files from the same direc
    export DB_HOST=localhost
    export DB_PORT=5432
    export DB_NAME=mrit_db
-   export DB_USER=arpithaprakash
+   export DB_USER=username
    export DB_PASSWORD=your_password
    ```
 4. Run the script:
