@@ -71,7 +71,7 @@ Use the merging script to combine CONOPS and DRAW JSON files from the same direc
 
 1. Ensure PostgreSQL is installed and running (`brew install postgresql` and `brew services start postgresql@14`).
 2. Create a database and table:
-   - In `psql`:
+   - In `psql` (execute `psql postgres`):
      ```sql
      CREATE DATABASE mrit_db OWNER "arpithaprakash";
      \c mrit_db
