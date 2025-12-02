@@ -135,7 +135,7 @@ The `conops-to-draw-main/` directory contains the React/Vite frontend that inter
 6. Export your Ollama key and database credentials so the generator and API can connect to external services (store these in `.env` or `env.sh` if desired):
    ```bash
    export OLLAMA_API_KEY=9f4e1f135c35424f82fde6596ae12569.krawhX9x4C3ua3Qn2snMmucQ
-   export DB_HOST=localhost DB_PORT=5432 DB_NAME=mrit_db DB_USER=arpithaprakash DB_PASSWORD=MRI-20
+   export DB_HOST=localhost DB_PORT=5432 DB_NAME=mrit_db DB_USER=username DB_PASSWORD=MRI-20
    ```
 7. The `/api/conops/upload` endpoint accepts a `.pptx` file, stores it, parses it via `parse_conop.py`, converts it to PDF for preview, and (when the prerequisites above are met) generates a DRAW JSON by calling the Ollama-assisted `generate_draw.py` pipeline. Each successful `/api/conops/generate-draw` call writes two PDFs into `generated_draws/`:
    - `<deck>-draw-<uuid>.pdf` — the editable DD 2977 (XFA format) with live form fields, used for downloads/exports.
