@@ -1,0 +1,17 @@
+# Configuration for Railway deployment via Nixpacks
+[phases.setup]
+nixPkgs = [
+    "python311",
+    "tesseract",
+    "poppler_utils",
+    "gcc",
+    "zlib",
+    "libxml2",
+    "libxslt"
+]
+
+[phases.install]
+cmds = ["python -m pip install -r requirements.txt"]
+
+[start]
+cmd = "./start.sh"
