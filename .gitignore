@@ -20,7 +20,7 @@ MERGED_CONOPS_DRAWS/
 skipped_documents_report.json
 uploaded_conops/
 generated_draws/
-JSON_TO_PDF/
+# JSON_TO_PDF/  <-- Commented out because we need the code inside it!
 draw_output.json
 
 # Frontend build artifacts
